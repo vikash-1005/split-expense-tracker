@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1776532840812,
+    "description": "abc",
+    "amount": 12000,
+    "currency": "INR",
+    "paidBy": 1776532820718,
+    "splitBetween": [
+      {
+        "user": 1776532820718,
+        "share": 4000
+      },
+      {
+        "user": 1776532823017,
+        "share": 4000
+      },
+      {
+        "user": 1776532826449,
+        "share": 4000
+      }
+    ]
+  },
+  {
+    "id": 1776532858681,
+    "description": "bca",
+    "amount": 6000,
+    "currency": "INR",
+    "paidBy": 1776532820718,
+    "splitBetween": [
+      {
+        "user": 1776532820718,
+        "share": 2000
+      },
+      {
+        "user": 1776532823017,
+        "share": 2000
+      },
+      {
+        "user": 1776532826449,
+        "share": 2000
+      }
+    ]
+  },
+  {
+    "id": 1776532893700,
+    "description": "hnsb",
+    "amount": 12000,
+    "currency": "INR",
+    "paidBy": 1776532826449,
+    "splitBetween": [
+      {
+        "user": 1776532820718,
+        "share": 4000
+      },
+      {
+        "user": 1776532823017,
+        "share": 4000
+      },
+      {
+        "user": 1776532826449,
+        "share": 4000
+      }
+    ]
+  }
+]
